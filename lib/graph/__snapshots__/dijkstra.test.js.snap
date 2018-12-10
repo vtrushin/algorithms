@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Graph 1 Incorrect vertex 1`] = `"Incorrect vertex name: \\"INCORRECT\\". Must be one of \\"A, B, C, D, E, F, G\\""`;
